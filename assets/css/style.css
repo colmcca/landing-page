@@ -15,6 +15,9 @@ header {
     border: solid black 5px;
     margin-top: 20px;
     background-color: grey;
+    width: 100%;
+    position: relative;
+    height: 400px;
 }
 
 #form-title {
@@ -32,3 +35,12 @@ header {
     width: 20%;
 }
 
+#planet-image {
+    height: 200px;
+    width: auto;
+    position: absolute;
+    border-radius: 15%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
