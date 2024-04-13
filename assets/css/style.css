@@ -1,0 +1,34 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+    height: 100px;
+    width: 100%;
+    border: solid 10px orange;
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+}
+
+#container {
+    border: solid black 5px;
+    margin-top: 20px;
+    background-color: grey;
+}
+
+#form-title {
+    text-align: center;
+}
+
+#contact-info {
+    margin-bottom: 10px;
+}
+
+.input {
+    margin-bottom: 10px;
+    display: block;
+    padding: 5px;
+    width: 20%;
+}
+
