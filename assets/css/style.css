@@ -2,6 +2,15 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+}
+
 header {
     height: 100px;
     width: 100%;
@@ -54,4 +63,12 @@ header {
 .nav-links {
     display: inline;
     margin: 10px;
+}
+
+footer {
+    background-color: orange;
+}
+
+.programmer {
+    text-align: center;
 }
