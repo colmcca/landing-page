@@ -10,11 +10,15 @@ N/A
 
 ## Usage
 
-N/A
+Clicking on each navigation link at the top will scroll you down to the section you select.
 
 ## Credits 
 
 N/A
+
+## Link to Deployed Page
+
+https://colmcca.github.io/landing-page/
 
 ## License
 
